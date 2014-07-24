@@ -1,0 +1,1 @@
+web: node ./bin/pushserver.js -c ./config.json
